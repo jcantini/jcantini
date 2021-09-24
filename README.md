@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Full Stack Wev Developer using the following technologies ...
 ![Tecnologias](https://user-images.githubusercontent.com/78605117/134743673-6599de11-4d64-4a81-9669-b51115bbc1d4.jpg)
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jcantini) [Gmail](mailto:jorge.cantini@gmail.com)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jorge-cantini) [Gmail](mailto:jorge.cantini@gmail.com)
 
 <!--
 **jcantini/jcantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
