@@ -3,9 +3,9 @@
 
 - 🔭 ### I am Jorge Cantini
 - I have a degree in Degree Computer science Systems Analysis at UBA (Buenos Aires University). 
-- My name is Jorge Cantini. During my professional life I've been developing and deploying different 
-- kinds of  software in Argentina, Mexico, Sweden & Spain. 
-- From 2005 to 2020 I decided to make a change an started my own catering company. After 15 years 
+  My name is Jorge Cantini. During my professional life I've been developing and deploying different 
+  kinds of  software in Argentina, Mexico, Sweden & Spain. 
+  From 2005 to 2020 I decided to make a change an started my own catering company. After 15 years 
 - and the Covid pandemic, I've decided to come back to my programing roots and started to learn 
 - Full Stack web development at Henry. I'm one month away to my graduation. 
 - I'm looking forward to come back to the arena looking for opportunities. 
