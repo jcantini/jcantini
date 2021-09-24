@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![me](https://user-images.githubusercontent.com/78605117/134741538-99b044f7-d115-44e5-bb35-f6133ca2154b.jpg)
 <!--
 **jcantini/jcantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
