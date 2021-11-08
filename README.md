@@ -1,8 +1,8 @@
 ### 👋
 ![me](https://user-images.githubusercontent.com/78605117/134741538-99b044f7-d115-44e5-bb35-f6133ca2154b.jpg)
 
-🔭 ### 
-**I am Jorge Cantini
+🔭 ### I'm Jorge Cantini
+
 - I have a degree in Degree Computer science Systems Analysis at UBA (Buenos Aires University). 
   My name is Jorge Cantini. During my professional life I've been developing and deploying different 
   kinds of  software in Argentina, Mexico, Sweden & Spain. 
