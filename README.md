@@ -12,7 +12,7 @@
   I'm looking forward to come back to the arena looking for opportunities. 
   I love to learn and contribute in any and every possible way.
 
-- 🌱 I’m currently a Full Stack Wev Developer graduated at Henry.com Bootcamp. I'm using the following technologies ...
+- 🌱 I’m currently a Full Stack Wev Developer working at Devsavant. I'm using the following technologies ...
 ![Tecnologias](https://user-images.githubusercontent.com/78605117/134743673-6599de11-4d64-4a81-9669-b51115bbc1d4.jpg)
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jorge-cantini) [Gmail](mailto:jorge.cantini@gmail.com)
