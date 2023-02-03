@@ -13,8 +13,7 @@
   I love to learn and contribute in any and every possible way.
 
 - 🌱 I’m currently a Full Stack Wev Developer working at Devsavant. I'm using the following technologies ...
-![Tecnologias](https://user-images.githubusercontent.com/78605117/134743673-6599de11-4d64-4a81-9669-b51115bbc1d4.jpg)
-
+![Fullstack](https://user-images.githubusercontent.com/78605117/216639608-44403ce7-96ca-4640-87ed-43f8d2b8dcc4.jpg)
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jorge-cantini) [Gmail](mailto:jorge.cantini@gmail.com)
 
 <!--
